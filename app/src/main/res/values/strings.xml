@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecyclerVideoPlayer</string>
+
+    <!--empty state-->
+    <string name="empty_screen">Oops!! An unexpected error occurred</string>
+    <string name="please_retry">Please retry after sometime</string>
+    <string name="retry">Retry</string>
+
+</resources>
